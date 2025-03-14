@@ -2,6 +2,8 @@
 
 2025 로봇 응용 SW 전문가 양성 과정 수강중 
 
+https://github.com/wads1234k/2025Robot/blob/main/memo/memo.md
+
 
 <!--
 **wads1234k/wads1234k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
